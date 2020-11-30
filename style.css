@@ -70,7 +70,8 @@ h1 {
 
 .pilt {
     display: inline-block;
-    float: left}
+    float: left;
+}
 
 .button {
     background-color: #405729;
@@ -87,7 +88,4 @@ h1 {
     width: 360px;
     height: 80px;
 }
-=======
-    float: right;
-}
->>>>>>> d74b6341527b70b44ebf0167304a0cee40886f96
+
