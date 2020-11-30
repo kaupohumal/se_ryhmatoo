@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #7fbb7f;
+    background-color: #405729;
     overflow: hidden;
 }
 
@@ -22,12 +22,12 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #4CAF50;
+    background-color: #405729;
     color: white;
 }
 
 body {
-    background-color: #bee29a;
+    background-color: #83a362;
 }
 
 h1 {
@@ -39,7 +39,7 @@ h1 {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #4CAF50;
+    background-color: #405729;
     text-align: center;
     line-height: 0.5;
     font-size: 14px;
@@ -61,4 +61,20 @@ h1 {
 
 .pilt {
     display: inline-block;
-float: right}
+float: left}
+
+.button {
+    background-color: #405729;
+        color: white;
+        padding: 0px;
+        border-radius: 0px;
+        -moz-border-radius: 0px;
+        -webkit-border-radius: 0px;
+        margin:10px
+        font-size: 25px;
+}
+
+.big-button {
+    width: 360px;
+    height: 80px;
+}
