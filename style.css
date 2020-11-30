@@ -12,6 +12,8 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    position: relative;
+    left: 25%;
 }
 
 /* Change the color of links on hover */
@@ -46,12 +48,19 @@ h1 {
 
 }
 
-.slogan {
-    font-family: Schoolbell, cursive;
-    alignment: left;
+.topnav h4 {
+    font-family: Schoolbell;
     float: left;
-
+    color: white;
 }
+
+/*.slogan {
+    font-family: Schoolbell;
+    float: left;
+    color: white;
+    position: absolute;
+    top:10%;
+}*/
 
 .sisu {
     display: inline-block;
@@ -61,7 +70,7 @@ h1 {
 
 .pilt {
     display: inline-block;
-float: left}
+    float: left}
 
 .button {
     background-color: #405729;
@@ -78,3 +87,7 @@ float: left}
     width: 360px;
     height: 80px;
 }
+=======
+    float: right;
+}
+>>>>>>> d74b6341527b70b44ebf0167304a0cee40886f96
